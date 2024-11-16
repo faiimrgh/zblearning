@@ -1,0 +1,5 @@
+{
+    "dotnet.defaultSolution": "AzureWebApps.sln",
+    "appService.defaultWebAppToDeploy": "/subscriptions/46ebdf88-6b0b-46d9-830b-98dcb0ea97e7/resourceGroups/appgrp/providers/Microsoft.Web/sites/zblearninggrp",
+    "appService.deploySubpath": "AzureWebApps"
+}
