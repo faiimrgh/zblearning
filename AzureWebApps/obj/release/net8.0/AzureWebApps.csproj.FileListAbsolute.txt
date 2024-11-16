@@ -67,4 +67,3 @@ C:\Azure\AzureWebApps\Chapter1\AzureWebApps\bin\Release\net8.0\runtimes\win-x86\
 C:\Azure\AzureWebApps\Chapter1\AzureWebApps\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
 C:\Azure\AzureWebApps\Chapter1\AzureWebApps\obj\Release\net8.0\AzureWebApps.csproj.AssemblyReference.cache
 C:\Azure\AzureWebApps\Chapter1\AzureWebApps\obj\Release\net8.0\AzureWebApps.csproj.CopyComplete
-C:\Azure\AzureWebApps\Chapter1\AzureWebApps\obj\Release\net8.0\AzureWebApps.sourcelink.json
